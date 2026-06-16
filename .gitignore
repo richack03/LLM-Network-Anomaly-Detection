@@ -1,0 +1,8 @@
+# Ambienti virtuali
+.venv/
+venv/
+
+# File di configurazione e Sicurezza
+.env
+__pycache__/
+*.pyc
