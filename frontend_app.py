@@ -4,7 +4,7 @@ import altair as alt
 from backend_app import carica_dati_raw, elabora_pipeline_completa
 
 # --- CONFIGURAZIONE INTERFACCIA ---
-st.set_page_config(page_title="Network Anomaly Detector", page_icon="network-access-point-vector-icon-260nw-2461269453.jpg", layout="wide")
+st.set_page_config(page_title="Network Anomaly Detector", page_icon="", layout="wide")
 
 # La cache rimane qui sul frontend per non far faticare la pagina web
 @st.cache_data
